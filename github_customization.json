@@ -1,4 +1,16 @@
 {
+  "profile":{
   "background_image": "https://github.com/m4zinga/background_profile/blob/main/bg-profile.jpg?raw=true",
   "style": "https://raw.githubusercontent.com/m4zinga/background_profile/main/style.css"
+  },
+  "repo":{
+    "m4zingatesting_repo1":{
+  "background_image": "https://github.com/m4zinga/background_profile/blob/main/bg-profile.jpg?raw=true",
+  "style": "https://raw.githubusercontent.com/m4zinga/background_profile/main/style.css"
+  },
+    "m4zingatesting_repo2":{
+  "background_image": "https://github.com/m4zinga/background_profile/blob/main/bg-profile.jpg?raw=true",
+  "style": "https://raw.githubusercontent.com/m4zinga/background_profile/main/style.css"
+    }
+  
 }
