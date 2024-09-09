@@ -1,16 +1,16 @@
 {
    "profile":{
       "background_image":"https://github.com/m4zinga/background_profile/blob/main/bg-profile.jpg?raw=true",
-      "style":"https://raw.githubusercontent.com/m4zinga/background_profile/main/style.css"
+      "style":"https://raw.githubusercontent.com/m4zinga/background_profile/main/style.json"
    },
    "repo":{
       "m4zingatesting_repo1":{
          "background_image":"https://github.com/m4zinga/background_profile/blob/main/bg-profile.jpg?raw=true",
-         "style":"https://raw.githubusercontent.com/m4zinga/background_profile/main/style.css"
+         "style":"https://raw.githubusercontent.com/m4zinga/background_profile/main/style.json"
       },
       "background_profile":{
          "background_image":"https://github.com/michaelScopic/Wallpapers/blob/main/linux/linux-retro_bGpqbmuUmZqaraWkpJRqZmdlrWdtbWU.jpeg?raw=true",
-         "style":"https://raw.githubusercontent.com/m4zinga/background_profile/main/style.css"
+         "style":"https://raw.githubusercontent.com/m4zinga/background_profile/main/style.json"
       }
    }
 }
