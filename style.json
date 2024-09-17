@@ -4,6 +4,8 @@
         "--borderColor-default": "rgb(0, 255, 21)",
 
         "--bgColor-overlay": "rgba(0, 0, 0, 0.5)",
+
+        "--bgColor-inset":  "rgba(0, 0, 0, 0.5)",
     
         "--bgColor-header": "rgba(0, 0, 0, 0.5)",
         
