@@ -1,0 +1,14 @@
+{
+  "color": {
+    "--bgColor-default": "rgba(1, 0, 56, 0.75)",
+    "--borderColor-default": "rgba(0, 157, 255, 1)",
+    "--bgColor-overlay": "rgba(0, 15, 61, 0.78)",
+    "--bgColor-inset": "rgba(0, 132, 255, 0.56)",
+    "--bgColor-header": "rgba(0, 20, 102, 0.57)",
+    "--bgColor-muted": "rgba(1, 0, 56, 0.66)",
+    "--borderColor-muted": "rgba(0, 157, 255, 1)",
+    "--button-default-bgColor-rest": "rgba(0, 0, 0, 0)",
+    "--button-default-borderColor-rest": "rgba(0, 157, 255, 1)",
+    "--control-borderColor-rest": "rgba(0, 157, 255, 1)"
+  }
+}
