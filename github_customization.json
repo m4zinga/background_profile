@@ -4,11 +4,7 @@
       "style":"https://github.com/m4zinga/background_profile/blob/main/style.json?raw=true"
    },
    "repo":{
-      "m4zingatesting_repo1":{
-         "background_image":"https://github.com/m4zinga/background_profile/blob/main/gitland_wall.webp?raw=true",
-         "style":"https://github.com/m4zinga/background_profile/blob/main/style.json?raw=true"
-      },
-      "background_profile":{
+      "GitLand":{
          "background_image":"https://github.com/m4zinga/background_profile/blob/main/gitland_wall.webp?raw=true",
          "style":"https://github.com/m4zinga/background_profile/blob/main/style.json?raw=true"
       }
