@@ -9,6 +9,10 @@
     "--borderColor-muted": "rgba(0, 157, 255, 1)",
     "--button-default-bgColor-rest": "rgba(0, 0, 0, 0.5)",
     "--button-default-borderColor-rest": "rgba(0, 255, 204, 1)",
-    "--control-borderColor-rest": "rgb(0, 255, 21)"
+    "--control-borderColor-rest": "rgb(0, 255, 21)",
+    "--color-calendar-graph-day-L1-bg": "rgba(14, 68, 41, 1)",
+    "--color-calendar-graph-day-L2-bg": "rgba(0, 109, 50, 1)",
+    "--color-calendar-graph-day-L3-bg": "rgba(38, 166, 65, 1)",
+    "--color-calendar-graph-day-L4-bg": "rgba(57, 211, 83, 1)"
   }
 }
